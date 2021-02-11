@@ -1,0 +1,2 @@
+Ce dossier sert a mettre les differets routes que l'on va utiliser pour notre API.
+elle va enregistrer des nom de routes qui servirons a se deplacer dans notre site internet.
